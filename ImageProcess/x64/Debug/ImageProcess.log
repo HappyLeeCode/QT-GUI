@@ -1,0 +1,5 @@
+﻿  moc ImageProcess.h
+  ImageProcess.cpp
+  main.cpp
+  moc_ImageProcess.cpp
+  ImageProcess.vcxproj -> D:\QTproject\VSproject\ImageProcess\x64\Debug\ImageProcess.exe

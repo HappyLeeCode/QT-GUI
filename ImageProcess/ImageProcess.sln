@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageProcess", "ImageProcess.vcxproj", "{62AED629-793C-4354-9C4C-52589718CE47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62AED629-793C-4354-9C4C-52589718CE47}.Debug|x64.ActiveCfg = Debug|x64
+		{62AED629-793C-4354-9C4C-52589718CE47}.Debug|x64.Build.0 = Debug|x64
+		{62AED629-793C-4354-9C4C-52589718CE47}.Release|x64.ActiveCfg = Release|x64
+		{62AED629-793C-4354-9C4C-52589718CE47}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C982A2D6-4AC4-4FB5-82BC-712B237CDFC3}
+	EndGlobalSection
+EndGlobal

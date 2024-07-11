@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ImageProcess">
+        <file>image/transform.png</file>
+    </qresource>
+</RCC>
